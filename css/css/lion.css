@@ -1,0 +1,12 @@
+/* body{
+    background-image: url("../images/bg1.jpeg");
+} */
+body{
+    background: url("../images/lion.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+}
